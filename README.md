@@ -22,7 +22,7 @@ I am Jerome Cordova, passionate about coding and equipped with strong database m
   - [View Certification](https://catalog-education.oracle.com/pls/certview/sharebadge?id=040C2C1BC49DCBA722F4950F4E593E33A4C30D457635DBFAE31C6E61B096F444)
   
 - **SQL and Relational Databases 101**
-  - [View Certification] (https://courses.cognitiveclass.ai/certificates/24e3489c14d14d52b95367c7a016d2dc)
+  - [View Certification](https://courses.cognitiveclass.ai/certificates/24e3489c14d14d52b95367c7a016d2dc)
 
 ## Skill Sets
 
