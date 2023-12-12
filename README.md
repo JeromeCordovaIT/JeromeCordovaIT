@@ -1,3 +1,9 @@
+
+
+![403395943_660553396241496_7932376684267909829_n](https://github.com/JeromeCordovaIT/JeromeCordovaIT/assets/153578020/a35b4950-c99a-4cb1-be79-ac43c4fcfb61)
+
+
+
 # Hi there, I'm Jerome Cordova! 👋
 
 ## About Me
