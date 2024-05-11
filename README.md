@@ -18,7 +18,7 @@ I am Jerome Cordova, passionate about coding and equipped with strong database m
 
 ## Certifications
  - **NoSQL and DBaaS 101**
-    -[View Certification](https://courses.cognitiveclass.ai/certificates/9cb1c6fd00144fda80e453aedc85f614).
+    - [View Certification](https://courses.cognitiveclass.ai/certificates/9cb1c6fd00144fda80e453aedc85f614).
    
 - **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
   - [View Certification](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C63C98E85DB4E6F5D26F805729473589CFE1FFA43780E4202B890E0C570C925F)
@@ -31,6 +31,7 @@ I am Jerome Cordova, passionate about coding and equipped with strong database m
   
 - **SQL and Relational Databases 101**
   - [View Certification](https://courses.cognitiveclass.ai/certificates/24e3489c14d14d52b95367c7a016d2dc)
+
 
 ## Skill Sets
 
